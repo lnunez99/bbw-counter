@@ -27,7 +27,7 @@ letOut.addEventListener("click", event => {
 	}
 })
 
-// Register the SW
+// Register the SW.
 if ("serviceWorker" in navigator) {
   window.addEventListener("load", function() {
     navigator.serviceWorker
