@@ -1,6 +1,6 @@
 {
-  "name": "LN IT202 Weather Big Project",
-  "short_name": "LNBP",
+  "name": "Customer Counter",
+  "short_name": "CC",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#fdfdfd",
@@ -8,11 +8,11 @@
   "orientation": "portrait-primary",
   "icons": [
     {
-      "src": "/it202-big-project/images/BPICON.png",
+      "src": "/customer-counter/images/BPICON.png",
       "type": "image/png","sizes": "128x128"
     },
     {
-      "src": "/it202-big-project/images/BPICON-copy.png",
+      "src": "/customer-counter/images/BPICON-copy.png",
       "type": "image/png", "sizes": "512x512"
     }
   ]
