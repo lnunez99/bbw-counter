@@ -15,7 +15,7 @@ const assets = [
 self.addEventListener("install", installEvent => {
   installEvent.waitUntil(
 	  // When the cache API is ready, we can run the open() method and create the cache.
-    caches.open(bigProject).then(cache => {
+    caches.open(personalCounter).then(cache => {
 		console.log("Cache opened.");
 		// The promise that is returned is helpful for storing assets.
       cache.addAll(assets)
