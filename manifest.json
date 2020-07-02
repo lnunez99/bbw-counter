@@ -1,0 +1,19 @@
+{
+  "name": "LN IT202 Weather Big Project",
+  "short_name": "LNBP",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#fdfdfd",
+  "theme_color": "#db4938",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/it202-big-project/images/BPICON.png",
+      "type": "image/png","sizes": "128x128"
+    },
+    {
+      "src": "/it202-big-project/images/BPICON-copy.png",
+      "type": "image/png", "sizes": "512x512"
+    }
+  ]
+}
