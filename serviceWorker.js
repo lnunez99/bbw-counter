@@ -5,7 +5,8 @@ const assets = [
   "/customer-counter/",
   "/customer-counter/index.html",
   "https://unpkg.com/material-components-web@v4.0.0/dist/material-components-web.min.js",
-  "https://fonts.googleapis.com/icon?family=Material+Icons",
+	"https://fonts.googleapis.com/icon?family=Material+Icons", 
+	"https://fonts.googleapis.com/css2?family=Roboto&display=swap",
 	"/customer-counter/js-app.js",
 	"/customer-counter/manifest.json",
 	"/customer-counter/images/BPICON.png"
