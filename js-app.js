@@ -8,7 +8,7 @@ let admitOne = document.querySelector("#In");
 let letOut = document.querySelector("#Out");
 
 admitOne.addEventListener("click", event => {
-	if (inStore != 12)
+	if (inStore != 50)
 	{
 		inStore++;
 		currentCount.textContent = inStore;
